@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    yo! currently studying ux at snhu
+  </samp>
+</p>
 
-<!--
-**roefyi/roefyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    before covid, I was a freelance photog for 7+ years.
+    <br>I'm just enjoying the journey and finding my
+    <br>way in this new industry.
+  </samp>
+</p>
+<p align="center">
+  <samp>
+    【ツ】  
+  </samp>
+</p>
