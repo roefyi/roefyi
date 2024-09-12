@@ -16,3 +16,9 @@
     【ツ】  
   </samp>
 </p>
+
+<p align="center">
+  <samp>
+ <img src="https://i.imgur.com/iw41pvH.gif" width="240px" align="center">
+  </samp>
+</p>
