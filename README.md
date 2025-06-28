@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    yo! currently studying ux at snhu
+    yo! recent grad at snhu witha ba in user experience 
   </samp>
 </p>
 
